@@ -33,14 +33,14 @@
     <Button
         android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:text="View Items"
+        android:text="View Cart"
         android:id="@+id/btn_view"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"/>
     <Button
         android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:text="View Cart"
+        android:text="View Items"
         android:id="@+id/btn_cart"
         android:layout_below="@+id/btn_view"
         android:layout_centerHorizontal="true"/>
